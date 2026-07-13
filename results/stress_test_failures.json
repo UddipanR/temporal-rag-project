@@ -1,145 +1,5 @@
 [
   {
-    "question": "What is the chemical formula for water?",
-    "verdict": "n",
-    "failure_type": "E",
-    "query_type_predicted": "STATIC",
-    "p_dynamic": 0.0,
-    "answer": "Not found in provided documents.",
-    "top3_before": [
-      {
-        "title": "Molar mass constant",
-        "date": "2025-11-22",
-        "cosine_score": 0.4779,
-        "topic_type": "static"
-      },
-      {
-        "title": "Chemical element",
-        "date": "2026-05-02",
-        "cosine_score": 0.4659,
-        "topic_type": "static"
-      },
-      {
-        "title": "Chemical element",
-        "date": "2026-05-02",
-        "cosine_score": 0.4165,
-        "topic_type": "static"
-      }
-    ],
-    "top5_after": [
-      {
-        "title": "Molar mass constant",
-        "date": "2025-11-22",
-        "cosine_score": 0.4779450297355652,
-        "freshness_score": 0.4093,
-        "final_score": 0.4779,
-        "topic_type": "static"
-      },
-      {
-        "title": "Chemical element",
-        "date": "2026-05-02",
-        "cosine_score": 0.46588265895843506,
-        "freshness_score": 0.7579,
-        "final_score": 0.4659,
-        "topic_type": "static"
-      },
-      {
-        "title": "Chemical element",
-        "date": "2026-05-02",
-        "cosine_score": 0.4165158271789551,
-        "freshness_score": 0.7579,
-        "final_score": 0.4165,
-        "topic_type": "static"
-      },
-      {
-        "title": "Bromine",
-        "date": "2026-06-28",
-        "cosine_score": 0.409531831741333,
-        "freshness_score": 0.9475,
-        "final_score": 0.4095,
-        "topic_type": "static"
-      },
-      {
-        "title": "Arsenic",
-        "date": "2026-07-04",
-        "cosine_score": 0.4072009325027466,
-        "freshness_score": 0.9697,
-        "final_score": 0.4072,
-        "topic_type": "static"
-      }
-    ]
-  },
-  {
-    "question": "What is the capital of France?",
-    "verdict": "n",
-    "failure_type": "E",
-    "query_type_predicted": "STATIC",
-    "p_dynamic": 0.0,
-    "answer": "Not found in provided documents.",
-    "top3_before": [
-      {
-        "title": "French Revolution",
-        "date": "2026-06-23",
-        "cosine_score": 0.4353,
-        "topic_type": "static"
-      },
-      {
-        "title": "Axis powers",
-        "date": "2026-07-04",
-        "cosine_score": 0.3777,
-        "topic_type": "static"
-      },
-      {
-        "title": "French Revolution",
-        "date": "2026-06-23",
-        "cosine_score": 0.3605,
-        "topic_type": "static"
-      }
-    ],
-    "top5_after": [
-      {
-        "title": "French Revolution",
-        "date": "2026-06-23",
-        "cosine_score": 0.4353225827217102,
-        "freshness_score": 0.9294,
-        "final_score": 0.4353,
-        "topic_type": "static"
-      },
-      {
-        "title": "Axis powers",
-        "date": "2026-07-04",
-        "cosine_score": 0.37771859765052795,
-        "freshness_score": 0.9659,
-        "final_score": 0.3777,
-        "topic_type": "static"
-      },
-      {
-        "title": "French Revolution",
-        "date": "2026-06-23",
-        "cosine_score": 0.3604569435119629,
-        "freshness_score": 0.9294,
-        "final_score": 0.3605,
-        "topic_type": "static"
-      },
-      {
-        "title": "Confluence",
-        "date": "2026-06-26",
-        "cosine_score": 0.3546752333641052,
-        "freshness_score": 0.9402,
-        "final_score": 0.3547,
-        "topic_type": "static"
-      },
-      {
-        "title": "Extremes on Earth",
-        "date": "2026-07-03",
-        "cosine_score": 0.3475712537765503,
-        "freshness_score": 0.9659,
-        "final_score": 0.3476,
-        "topic_type": "static"
-      }
-    ]
-  },
-  {
     "question": "Who is the Chief Justice of India?",
     "verdict": "n",
     "failure_type": "E",
@@ -170,7 +30,7 @@
       {
         "title": "Chief Justice of India",
         "date": "2026-05-23",
-        "cosine_score": 0.7407883405685425,
+        "cosine_score": 0.7407882213592529,
         "freshness_score": 0.8249,
         "final_score": 0.766,
         "topic_type": "dynamic"
@@ -178,7 +38,7 @@
       {
         "title": "President of India",
         "date": "2026-06-26",
-        "cosine_score": 0.6227871775627136,
+        "cosine_score": 0.6227871179580688,
         "freshness_score": 0.9402,
         "final_score": 0.718,
         "topic_type": "dynamic"
@@ -194,7 +54,7 @@
       {
         "title": "Prime Minister of India",
         "date": "2026-06-30",
-        "cosine_score": 0.5986304879188538,
+        "cosine_score": 0.598630428314209,
         "freshness_score": 0.9548,
         "final_score": 0.7055,
         "topic_type": "dynamic"
@@ -202,79 +62,9 @@
       {
         "title": "Chief Justice of India",
         "date": "2026-05-23",
-        "cosine_score": 0.6450083255767822,
+        "cosine_score": 0.6450082063674927,
         "freshness_score": 0.8249,
         "final_score": 0.699,
-        "topic_type": "dynamic"
-      }
-    ]
-  },
-  {
-    "question": "Who is the CEO of Google?",
-    "verdict": "n",
-    "failure_type": "E",
-    "query_type_predicted": "DYNAMIC_CURRENT",
-    "p_dynamic": 1.0,
-    "answer": "Not found in provided documents.",
-    "top3_before": [
-      {
-        "title": "Android (operating system)",
-        "date": "2026-07-05",
-        "cosine_score": 0.6044,
-        "topic_type": "dynamic"
-      },
-      {
-        "title": "Android (operating system)",
-        "date": "2026-07-05",
-        "cosine_score": 0.4872,
-        "topic_type": "dynamic"
-      },
-      {
-        "title": "Android (operating system)",
-        "date": "2026-07-05",
-        "cosine_score": 0.4495,
-        "topic_type": "dynamic"
-      }
-    ],
-    "top5_after": [
-      {
-        "title": "Android (operating system)",
-        "date": "2026-07-05",
-        "cosine_score": 0.6044315695762634,
-        "freshness_score": 0.9734,
-        "final_score": 0.7151,
-        "topic_type": "dynamic"
-      },
-      {
-        "title": "Android (operating system)",
-        "date": "2026-07-05",
-        "cosine_score": 0.48724716901779175,
-        "freshness_score": 0.9734,
-        "final_score": 0.6331,
-        "topic_type": "dynamic"
-      },
-      {
-        "title": "Android (operating system)",
-        "date": "2026-07-05",
-        "cosine_score": 0.449543297290802,
-        "freshness_score": 0.9734,
-        "final_score": 0.6067,
-        "topic_type": "dynamic"
-      },
-      {
-        "title": "Android (operating system)",
-        "date": "2026-07-05",
-        "cosine_score": 0.42837095260620117,
-        "freshness_score": 0.9734,
-        "final_score": 0.5919,
-        "topic_type": "dynamic"
-      },
-      {
-        "title": "Android (operating system)",
-        "date": "2026-07-05",
-        "cosine_score": 0.4254627227783203,
-        "freshness_score": 0.9734,
-        "final_score": 0.5898,
         "topic_type": "dynamic"
       }
     ]
@@ -310,7 +100,7 @@
       {
         "title": "India national cricket team",
         "date": "2026-07-04",
-        "cosine_score": 0.6312829256057739,
+        "cosine_score": 0.6312830448150635,
         "freshness_score": 0.9697,
         "final_score": 0.7328,
         "topic_type": "dynamic"
@@ -334,7 +124,7 @@
       {
         "title": "India national cricket team",
         "date": "2026-07-04",
-        "cosine_score": 0.5952227115631104,
+        "cosine_score": 0.5952225923538208,
         "freshness_score": 0.9697,
         "final_score": 0.7076,
         "topic_type": "dynamic"
@@ -342,7 +132,7 @@
       {
         "title": "India national cricket team",
         "date": "2026-07-04",
-        "cosine_score": 0.5877875685691833,
+        "cosine_score": 0.5877875089645386,
         "freshness_score": 0.9697,
         "final_score": 0.7024,
         "topic_type": "dynamic"
@@ -380,7 +170,7 @@
       {
         "title": "K. R. Narayanan",
         "date": "2026-06-30",
-        "cosine_score": 0.619405210018158,
+        "cosine_score": 0.6194052696228027,
         "freshness_score": 0.9548,
         "final_score": 0.6194,
         "topic_type": "dynamic"
@@ -404,7 +194,7 @@
       {
         "title": "Pranab Mukherjee",
         "date": "2026-06-19",
-        "cosine_score": 0.5973645448684692,
+        "cosine_score": 0.597364604473114,
         "freshness_score": 0.9117,
         "final_score": 0.5974,
         "topic_type": "dynamic"
@@ -412,7 +202,7 @@
       {
         "title": "Droupadi Murmu",
         "date": "2026-07-02",
-        "cosine_score": 0.5941516160964966,
+        "cosine_score": 0.5941517353057861,
         "freshness_score": 0.9622,
         "final_score": 0.5942,
         "topic_type": "dynamic"
@@ -420,77 +210,7 @@
     ]
   },
   {
-    "question": "What was India's capital before New Delhi?",
-    "verdict": "n",
-    "failure_type": "E",
-    "query_type_predicted": "STATIC",
-    "p_dynamic": 0.0,
-    "answer": "Not found in provided documents.",
-    "top3_before": [
-      {
-        "title": "Chief Minister of Delhi",
-        "date": "2026-06-21",
-        "cosine_score": 0.5098,
-        "topic_type": "dynamic"
-      },
-      {
-        "title": "Mughal successor states",
-        "date": "2026-06-10",
-        "cosine_score": 0.4739,
-        "topic_type": "static"
-      },
-      {
-        "title": "Chief Minister of Delhi",
-        "date": "2026-06-21",
-        "cosine_score": 0.4711,
-        "topic_type": "dynamic"
-      }
-    ],
-    "top5_after": [
-      {
-        "title": "Chief Minister of Delhi",
-        "date": "2026-06-21",
-        "cosine_score": 0.5097817182540894,
-        "freshness_score": 0.9223,
-        "final_score": 0.5098,
-        "topic_type": "dynamic"
-      },
-      {
-        "title": "Mughal successor states",
-        "date": "2026-06-10",
-        "cosine_score": 0.4739474654197693,
-        "freshness_score": 0.8841,
-        "final_score": 0.4739,
-        "topic_type": "static"
-      },
-      {
-        "title": "Chief Minister of Delhi",
-        "date": "2026-06-21",
-        "cosine_score": 0.4710732102394104,
-        "freshness_score": 0.9223,
-        "final_score": 0.4711,
-        "topic_type": "dynamic"
-      },
-      {
-        "title": "Chief Minister of Maharashtra",
-        "date": "2026-06-29",
-        "cosine_score": 0.4554259479045868,
-        "freshness_score": 0.9512,
-        "final_score": 0.4554,
-        "topic_type": "dynamic"
-      },
-      {
-        "title": "Economy of India",
-        "date": "2026-06-30",
-        "cosine_score": 0.44635093212127686,
-        "freshness_score": 0.9548,
-        "final_score": 0.4464,
-        "topic_type": "dynamic"
-      }
-    ]
-  },
-  {
-    "question": "Who was the CEO of Apple in 2005?",
+    "question": "Who was the CEO of apple in 2005?",
     "verdict": "n",
     "failure_type": "E",
     "query_type_predicted": "DYNAMIC_HISTORICAL",
@@ -498,63 +218,63 @@
     "answer": "Not found in provided documents.",
     "top3_before": [
       {
-        "title": "Android (operating system)",
-        "date": "2026-07-05",
-        "cosine_score": 0.4852,
+        "title": "Apple Inc.",
+        "date": "2026-07-12",
+        "cosine_score": 0.7645,
         "topic_type": "dynamic"
       },
       {
-        "title": "IOS",
-        "date": "2026-07-03",
-        "cosine_score": 0.4731,
-        "topic_type": "dynamic"
+        "title": "Steve Jobs",
+        "date": "2026-07-07",
+        "cosine_score": 0.6647,
+        "topic_type": "static"
       },
       {
-        "title": "Android (operating system)",
-        "date": "2026-07-05",
-        "cosine_score": 0.4702,
+        "title": "Apple Inc.",
+        "date": "2026-07-12",
+        "cosine_score": 0.6524,
         "topic_type": "dynamic"
       }
     ],
     "top5_after": [
       {
-        "title": "Android (operating system)",
-        "date": "2026-07-05",
-        "cosine_score": 0.4852259159088135,
-        "freshness_score": 0.9734,
-        "final_score": 0.4852,
+        "title": "Apple Inc.",
+        "date": "2026-07-12",
+        "cosine_score": 0.7645446062088013,
+        "freshness_score": 1.0,
+        "final_score": 0.7645,
         "topic_type": "dynamic"
       },
       {
-        "title": "IOS",
-        "date": "2026-07-03",
-        "cosine_score": 0.47305378317832947,
-        "freshness_score": 0.9659,
-        "final_score": 0.4731,
+        "title": "Steve Jobs",
+        "date": "2026-07-07",
+        "cosine_score": 0.6647012233734131,
+        "freshness_score": 0.9772,
+        "final_score": 0.6647,
+        "topic_type": "static"
+      },
+      {
+        "title": "Apple Inc.",
+        "date": "2026-07-12",
+        "cosine_score": 0.6524425745010376,
+        "freshness_score": 1.0,
+        "final_score": 0.6524,
         "topic_type": "dynamic"
       },
       {
-        "title": "Android (operating system)",
-        "date": "2026-07-05",
-        "cosine_score": 0.47024741768836975,
-        "freshness_score": 0.9734,
-        "final_score": 0.4702,
+        "title": "Apple Inc.",
+        "date": "2026-07-12",
+        "cosine_score": 0.6425415277481079,
+        "freshness_score": 1.0,
+        "final_score": 0.6425,
         "topic_type": "dynamic"
       },
       {
-        "title": "IOS",
-        "date": "2026-07-03",
-        "cosine_score": 0.44853198528289795,
-        "freshness_score": 0.9659,
-        "final_score": 0.4485,
-        "topic_type": "dynamic"
-      },
-      {
-        "title": "AI agent",
-        "date": "2026-06-29",
-        "cosine_score": 0.4330124855041504,
-        "freshness_score": 0.9475,
-        "final_score": 0.433,
+        "title": "Apple Inc.",
+        "date": "2026-07-12",
+        "cosine_score": 0.6214889287948608,
+        "freshness_score": 1.0,
+        "final_score": 0.6215,
         "topic_type": "dynamic"
       }
     ]
@@ -590,7 +310,7 @@
       {
         "title": "India national cricket team",
         "date": "2026-07-04",
-        "cosine_score": 0.6252227425575256,
+        "cosine_score": 0.6252228021621704,
         "freshness_score": 0.9697,
         "final_score": 0.7286,
         "topic_type": "dynamic"
@@ -622,7 +342,7 @@
       {
         "title": "India national cricket team",
         "date": "2026-07-04",
-        "cosine_score": 0.5963538885116577,
+        "cosine_score": 0.5963539481163025,
         "freshness_score": 0.9697,
         "final_score": 0.7083,
         "topic_type": "dynamic"
@@ -630,7 +350,7 @@
     ]
   },
   {
-    "question": "Who is the most successful Indian cricketer?",
+    "question": "Who is the most successful Indian Cricketer?",
     "verdict": "n",
     "failure_type": "E",
     "query_type_predicted": "DYNAMIC_CURRENT",
@@ -660,15 +380,15 @@
       {
         "title": "Rohit Sharma",
         "date": "2026-06-29",
-        "cosine_score": 0.6137495040893555,
-        "freshness_score": 0.9512,
-        "final_score": 0.6644,
+        "cosine_score": 0.613749623298645,
+        "freshness_score": 0.9475,
+        "final_score": 0.6638,
         "topic_type": "dynamic"
       },
       {
         "title": "India national cricket team",
         "date": "2026-07-04",
-        "cosine_score": 0.6084821224212646,
+        "cosine_score": 0.6084820032119751,
         "freshness_score": 0.9697,
         "final_score": 0.6627,
         "topic_type": "dynamic"
@@ -684,7 +404,7 @@
       {
         "title": "MS Dhoni",
         "date": "2026-06-27",
-        "cosine_score": 0.6000180840492249,
+        "cosine_score": 0.6000180244445801,
         "freshness_score": 0.9402,
         "final_score": 0.6511,
         "topic_type": "dynamic"
@@ -692,7 +412,7 @@
       {
         "title": "MS Dhoni",
         "date": "2026-06-27",
-        "cosine_score": 0.5973687171936035,
+        "cosine_score": 0.597368597984314,
         "freshness_score": 0.9402,
         "final_score": 0.6488,
         "topic_type": "dynamic"
