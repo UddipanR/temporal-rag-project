@@ -105,19 +105,6 @@
       "correct_answer": "Himanta Biswa Sarma"
     },
     {
-      "question_id": "q035",
-      "question": "Who is the Chief Minister of Tamil Nadu?",
-      "true_type": "DYNAMIC_CURRENT",
-      "group": 2,
-      "failure_type": "B",
-      "reason": "Oracle succeeded but Two-Stage failed — penalty or retriever error",
-      "plain_correct": false,
-      "oracle_correct": true,
-      "classifier_pred": "DYNAMIC_CURRENT",
-      "ts_answer": "C. Joseph Vijay of the Tamilaga Vettri Kazhagam is the incumbent Chief Minister of Tamil Nadu since 10 May 2026.",
-      "correct_answer": "M. K. Stalin"
-    },
-    {
       "question_id": "q036",
       "question": "Who is the Chief Minister of Karnataka?",
       "true_type": "DYNAMIC_CURRENT",
@@ -691,7 +678,6 @@
     }
   ],
   "counts": {
-    "E": 52,
-    "B": 1
+    "E": 52
   }
 }

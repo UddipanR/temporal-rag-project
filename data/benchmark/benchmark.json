@@ -324,15 +324,15 @@
   {
     "question_id": "q035",
     "question": "Who is the Chief Minister of Tamil Nadu?",
-    "correct_answer": "M. K. Stalin",
+    "correct_answer": "C. Joseph Vijay",
     "true_type": "DYNAMIC_CURRENT",
     "group": 2,
     "doc_title": "Chief Minister of Tamil Nadu",
-    "old_wrong_answer": "Edappadi K. Palaniswami",
+    "old_wrong_answer": "M. K. Stalin",
     "old_doc_date": "2026-07-13",
     "new_doc_date": "2026-07-13",
     "has_revision_pair": true,
-    "notes": "Old (2020) has wrong answer. New has correct. Penalty must boost new doc."
+    "notes": "M. K. Stalin was CM until May 2026. C. Joseph Vijay succeeded him after 2026 TN elections. Benchmark ground truth updated post-evaluation."
   },
   {
     "question_id": "q036",

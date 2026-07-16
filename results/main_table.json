@@ -9,9 +9,9 @@
     },
     "Dynamic-Current (G2+G4)": {
       "N": 40,
-      "Plain": "35.0%",
+      "Plain": "37.5%",
       "Naive Penalty": "42.5%",
-      "Two-Stage": "40.0%",
+      "Two-Stage": "42.5%",
       "Oracle": "42.5%"
     },
     "Dynamic-Historical (G3)": {
@@ -23,9 +23,9 @@
     },
     "Overall": {
       "N": 105,
-      "Plain": "45.7%",
+      "Plain": "46.7%",
       "Naive Penalty": "44.8%",
-      "Two-Stage": "49.5%",
+      "Two-Stage": "50.5%",
       "Oracle": "49.5%"
     }
   },
@@ -39,9 +39,9 @@
     },
     "G2 Dynamic-Current": {
       "N": 25,
-      "Plain": "40.0%",
+      "Plain": "44.0%",
       "Naive Penalty": "52.0%",
-      "Two-Stage": "48.0%",
+      "Two-Stage": "52.0%",
       "Oracle": "52.0%"
     },
     "G3 Dynamic-Historical": {
